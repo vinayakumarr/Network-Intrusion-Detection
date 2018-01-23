@@ -1,2 +1,2 @@
 # Network-Intrusion-Detection
-Network Intrusion Detection using shallow and deep networks
+Network Intrusion Detection KDDCup '99'
