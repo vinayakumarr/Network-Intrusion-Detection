@@ -1,11 +1,11 @@
 # Network-Intrusion-Detection
 Network Intrusion Detection KDDCup '99', NSL-KDD and UNSW-NB15
 
-KDDCup '99': http://www.unb.ca/cic/datasets/index.html
+KDDCup '99': http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 
-NSL-KDD: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+NSL-KDD: http://www.unb.ca/cic/datasets/nsl.html
 
-UNSW-NB15: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+UNSW-NB15: https://www.unsw.adfa.edu.au/australian-centre-for-cyber-security/cybersecurity/ADFA-NB15-Datasets/
 
 Please cite the following papers, if you use the code as part of your research
 
