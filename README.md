@@ -1,6 +1,8 @@
 # Network-Intrusion-Detection
 Network Intrusion Detection KDDCup '99', NSL-KDD and UNSW-NB15
 
+<a href="https://zenodo.org/badge/latestdoi/149269590"><img src="https://zenodo.org/badge/149269590.svg" alt="DOI"></a>
+
 KDDCup '99': http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 
 NSL-KDD: http://www.unb.ca/cic/datasets/nsl.html
@@ -16,3 +18,5 @@ Applying convolutional neural network for network intrusion detection. ICACCI 20
 Evaluating effectiveness of shallow and deep networks to intrusion detection system. ICACCI 2017: 1282-1289
 
 3. R. Vinayakumar, K. P. Soman, Prabaharan Poornachandran: Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" has accepted in Special Issue On Big Data Searching, Mining, Optimization & Securing (BSMOS) Peer to Peer Cloud Based Networks in IJISMD (Accepted)
+
+
